@@ -69,7 +69,7 @@ public class HomeController {	// controller = router
 	}
 	
 	/*
-	 * 연산은 homecontroller에서 함.
+	 * 연산은 HomeController에서 함. .jsp 에서는 X
 	 * */
 	
 }
